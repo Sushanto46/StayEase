@@ -1,0 +1,77 @@
+[
+    {
+        "roomImages": [
+            "https://images.oyoroomscdn.com/uploads/hotel_image/202363/medium/8c51d0aebe4cd158.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/202363/medium/814bd9a86658c42a.jpg"
+        ],
+        "hotelName": "Grand Hotel",
+        "maxCount": 3,
+        "phoneNumber": 1234567890,
+        "rentPerDay": 1499,
+        "currentBookings": [
+            { "checkIn": "2024-06-01T00:00:00.000Z", "checkOut": "2024-06-05T00:00:00.000Z", "guestName": "John Doe" }
+        ],
+        "roomType": "Deluxe",
+        "description": "A spacious room with a beautiful view and modern amenities."
+    },
+    {
+        "roomImages": [
+            "https://images.oyoroomscdn.com/uploads/hotel_image/202363/medium/daa6e8a9c5a84f2f.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/202363/medium/454c86993880524d.jpg"
+        ],
+        "hotelName": "Sunrise Inn",
+        "maxCount": 2,
+        "phoneNumber": 9876543210,
+        "rentPerDay": 2599,
+        "currentBookings": [
+            { "checkIn": "2024-06-10T00:00:00.000Z", "checkOut": "2024-06-15T00:00:00.000Z", "guestName": "Jane Smith" }
+        ],
+        "roomType": "Standard",
+        "description": "A comfortable room perfect for a short stay."
+    },
+    {
+        "roomImages": [
+            "https://images.oyoroomscdn.com/uploads/hotel_image/232073/medium/uwwiwsqgoeum.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/232073/medium/xmqlnnvpjbgu.jpg"
+        ],
+        "hotelName": "Seaside Resort",
+        "maxCount": 4,
+        "phoneNumber": 1122334455,
+        "rentPerDay": 3259,
+        "currentBookings": [
+            { "checkIn": "2024-06-20T00:00:00.000Z", "checkOut": "2024-06-25T00:00:00.000Z", "guestName": "Alice Johnson" }
+        ],
+        "roomType": "Suite",
+        "description": "A luxurious suite with ocean views and premium services."
+    },
+    {
+        "roomImages": [
+            "https://images.oyoroomscdn.com/uploads/hotel_image/6819/medium/45d57285a898eeba.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/6819/medium/562e6e9a4f6b8ca1.jpg"
+        ],
+        "hotelName": "Mountain Retreat",
+        "maxCount": 2,
+        "phoneNumber": 5566778899,
+        "rentPerDay": 1889,
+        "currentBookings": [
+            { "checkIn": "2024-06-05T00:00:00.000Z", "checkOut": "2024-06-10T00:00:00.000Z", "guestName": "Bob Brown" }
+        ],
+        "roomType": "Executive",
+        "description": "An executive room with all modern facilities for a comfortable stay."
+    },
+    {
+        "roomImages": [
+            "https://images.oyoroomscdn.com/uploads/hotel_image/82508/medium/b55772036bf593aa.jpg",
+            "https://images.oyoroomscdn.com/uploads/hotel_image/82508/medium/4b3be3dfed15124c.jpg"
+        ],
+        "hotelName": "City Center Hotel",
+        "maxCount": 1,
+        "phoneNumber": 6677889900,
+        "rentPerDay": 1299,
+        "currentBookings": [
+            { "checkIn": "2024-06-15T00:00:00.000Z", "checkOut": "2024-06-20T00:00:00.000Z", "guestName": "Charlie White" }
+        ],
+        "roomType": "Single",
+        "description": "A cozy single room ideal for solo travelers."
+    }
+]
